@@ -1,0 +1,4 @@
+#Wed Mar 20 20:59:34 CST 2019
+base.0=F\:\\Source code\\StudioProjects\\TCP\\myTCP\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex

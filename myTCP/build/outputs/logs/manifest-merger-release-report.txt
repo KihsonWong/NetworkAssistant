@@ -1,0 +1,106 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:17:1-45:12
+INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:17:1-45:12
+INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:17:1-45:12
+INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:17:1-45:12
+MERGED from [:SlidingMenu-master] F:\Source code\StudioProjects\TCP\SlidingMenu-master\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\34b50ced879b82a2642bd5de7d2047bf\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\670674251f6033e61f391cc80bc37306\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\c771b7f9e706a11210e3efdb6fddf4d5\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aa2a41373c2de23c36ea98f2d93dbe41\AndroidManifest.xml:17:1-24:12
+INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:17:1-45:12
+INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:17:1-45:12
+INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:17:1-45:12
+	package
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:18:5-36
+		INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml
+		INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml
+		INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml
+		INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:21:5-22:41
+INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:21:5-22:41
+INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:21:5-22:41
+MERGED from [:SlidingMenu-master] F:\Source code\StudioProjects\TCP\SlidingMenu-master\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:SlidingMenu-master] F:\Source code\StudioProjects\TCP\SlidingMenu-master\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\34b50ced879b82a2642bd5de7d2047bf\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\34b50ced879b82a2642bd5de7d2047bf\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\670674251f6033e61f391cc80bc37306\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\670674251f6033e61f391cc80bc37306\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\c771b7f9e706a11210e3efdb6fddf4d5\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\c771b7f9e706a11210e3efdb6fddf4d5\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aa2a41373c2de23c36ea98f2d93dbe41\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aa2a41373c2de23c36ea98f2d93dbe41\AndroidManifest.xml:20:5-43
+INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:21:5-22:41
+INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:21:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\34b50ced879b82a2642bd5de7d2047bf\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:22:9-38
+		INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml
+		INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:21:5-22:41
+		INJECTED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:24:5-84
+	android:name
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:24:22-81
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:25:5-81
+	android:name
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:25:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:26:5-75
+	android:name
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:26:22-73
+uses-permission#android.permission.INTERNET
+ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:27:5-66
+	android:name
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:27:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:28:5-75
+	android:name
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:28:22-72
+application
+ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:30:5-43:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\34b50ced879b82a2642bd5de7d2047bf\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\34b50ced879b82a2642bd5de7d2047bf\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\670674251f6033e61f391cc80bc37306\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\670674251f6033e61f391cc80bc37306\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\c771b7f9e706a11210e3efdb6fddf4d5\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\c771b7f9e706a11210e3efdb6fddf4d5\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aa2a41373c2de23c36ea98f2d93dbe41\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] G:\Users\69481\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\aa2a41373c2de23c36ea98f2d93dbe41\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:32:9-41
+	android:icon
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:31:9-43
+activity#com.loumeng.activity.TCPchat
+ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:33:9-42:20
+	android:label
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:36:13-46
+	android:configChanges
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:35:13-63
+	android:name
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:34:13-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from F:\Source code\StudioProjects\TCP\myTCP\src\main\AndroidManifest.xml:40:27-74

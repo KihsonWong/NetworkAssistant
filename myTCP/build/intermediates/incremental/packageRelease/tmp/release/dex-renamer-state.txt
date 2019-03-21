@@ -1,0 +1,4 @@
+#Wed Mar 20 10:47:42 CST 2019
+base.0=F\:\\Source code\\StudioProjects\\TCP\\myTCP\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+path.0=classes.dex
+renamed.0=classes.dex
